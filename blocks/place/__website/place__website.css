@@ -1,0 +1,10 @@
+.place__website {
+  align-self: end;
+  justify-self: start;
+}
+
+@media (min-width: 320px) and (max-width: 424px) {
+  .place__website {
+    padding-left: 16px;
+  }
+}
