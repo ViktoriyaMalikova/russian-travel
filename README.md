@@ -6,3 +6,4 @@
 1. HTML
 2. CSS
 ## Ссылка на проект
+https://viktoriyamalikova.github.io/russian-travel/
