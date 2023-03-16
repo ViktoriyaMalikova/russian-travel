@@ -13,21 +13,9 @@
   min-height: 740px;
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media (min-width: 320px) and (max-width: 1279px) {
   .cover__link {
-    min-height: 640px;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .cover__link {
-    min-height: 480px;
-  }
-}
-
-@media (min-width: 320px) and (max-width: 767px) {
-  .cover__link {
-    min-height: 200px;
+    min-height: calc(100vw/1.6);
   }
 }
 
